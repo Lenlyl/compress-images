@@ -2,7 +2,7 @@
  * @Author: Lorrin
  * @Date: 2024-06-12 15:09:48
  * @LastEditors: Lorrin
- * @LastEditTime: 2024-06-12 15:20:37
+ * @LastEditTime: 2024-06-12 15:28:13
  * @Description: 有问题发送至邮箱363819948@qq.com
 -->
 # 批量处理图片压缩至指定大小
@@ -12,7 +12,7 @@
 
 ## 使用步骤
 ### node版本要求>=18.17.0 
-[npm sharp](https://www.npmjs.com/package/sharp)
+[npm sharp](https://www.npmjs.com/package/sharp) <br>
 [sharp文档](https://sharp.pixelplumbing.com/)
 
 ```bash
